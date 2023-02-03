@@ -1,3 +1,8 @@
+.sun-and-moon {
+  height: 16px;
+  width: 16px;
+}
+
 .sun-and-moon > :is(.moon, .sun, .sun-beams) {
   transform-origin: center center;
 }
